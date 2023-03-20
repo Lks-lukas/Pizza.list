@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\MICROSOFT\\MICROSOFT.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Pizza.list\\MICROSOFT.csproj",
       "projectName": "MICROSOFT",
-      "projectPath": "C:\\Users\\User\\Documents\\MICROSOFT\\MICROSOFT.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\Pizza.list\\MICROSOFT.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\MICROSOFT\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Pizza.list\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
